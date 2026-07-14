@@ -1,7 +1,7 @@
 # ☕ Brew Heaven Landing Page
 
 # Preview
-[Preview](/preview/preview.png)
+![Preview](/preview/preview.png)
 
 A modern and responsive landing page for a coffee shop, built with HTML and CSS.
 
