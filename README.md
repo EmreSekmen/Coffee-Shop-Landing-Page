@@ -7,7 +7,7 @@ A modern and responsive landing page for a coffee shop, built with HTML and CSS.
 
 ## 🌐 Live Demo
 
-👉 **[View Live Demo]
+👉 **[https://coffeeshoplandingpa.netlify.app/]
 
 ---
 
